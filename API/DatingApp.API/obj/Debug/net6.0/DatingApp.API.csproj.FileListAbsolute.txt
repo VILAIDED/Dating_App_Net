@@ -52,3 +52,11 @@
 /home/pkzero/project/NET/API/DatingApp.API/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
 /home/pkzero/project/NET/API/DatingApp.API/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
 /home/pkzero/project/NET/API/DatingApp.API/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/home/pkzero/project/NET/API/DatingApp.API/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/pkzero/project/NET/API/DatingApp.API/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/home/pkzero/project/NET/API/DatingApp.API/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/pkzero/project/NET/API/DatingApp.API/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/pkzero/project/NET/API/DatingApp.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/pkzero/project/NET/API/DatingApp.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/pkzero/project/NET/API/DatingApp.API/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/pkzero/project/NET/API/DatingApp.API/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
